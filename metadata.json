@@ -1,0 +1,6 @@
+{
+  "name": "Smart Parking Slot Detection System",
+  "description": "An AI-Enabled Smart Parking Management System designed to monitor slot availability, predict demand, simulate computer-vision slot detection, and offer smart vehicles routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
